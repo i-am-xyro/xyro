@@ -16,3 +16,7 @@ body {
 .card-title {
     color: white;
 }
+
+html {
+    scroll-behavior: smooth;
+}
