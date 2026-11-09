@@ -1,0 +1,21 @@
+body {
+    background-image: url(yourname.png);
+    background-size: cover;
+}
+.hero-section {
+    background-image: url();
+    height: 35vh;
+}
+
+.about-me  {
+    height: 35vh;
+}
+
+.skills {
+    height: 30vh;
+}
+
+.card-transluscent {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-color:  rgba(0, 0, 0, 0.5);
+}
